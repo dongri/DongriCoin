@@ -4,6 +4,7 @@
   "dependencies": {
     "@openzeppelin/contracts": "^2.5.0",
     "@truffle/hdwallet-provider": "^1.2.0",
-    "node-fetch": ">=2.6.1"
+    "node-fetch": ">=2.6.1",
+    "underscore": ">=1.12.1"
   }
 }
