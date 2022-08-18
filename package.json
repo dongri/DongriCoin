@@ -2,7 +2,7 @@
   "name": "dongricoin",
   "version": "1.0.0",
   "dependencies": {
-    "@openzeppelin/contracts": "^4.4.2",
+    "@openzeppelin/contracts": "^4.7.3",
     "@truffle/hdwallet-provider": "^1.4.0",
     "node-fetch": ">=3.1.1",
     "normalize-url": ">=6.0.1",
